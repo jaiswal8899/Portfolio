@@ -1,0 +1,159 @@
+{
+    "about": {
+        "intro": "I'm a *Computer Science Engineering student specializing in AI/ML* who loves building **AI-powered**, **modern**, and **interactive** applications.",
+        "description": "I'm Shivam  who enjoys learning about **Artificial Intelligence**, **Machine Learning**, programming, and software development while turning ideas into practical projects. I primarily focus on AI/ML and Python, but I also enjoy building **websites**, **AI applications**, and full-stack systems.",
+        "full": "Hi, I'm **Shivam kumar**, a Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning at Lovely Professional University, India. I have been actively learning programming, data structures, artificial intelligence, machine learning, and modern software development while working on practical projects.\n\nI primarily focus on Artificial Intelligence, Machine Learning, and Python programming, but I also enjoy web development and building complete applications. I work with technologies such as *Python*, *JavaScript*, *React*, *Next.js*, *Node.js*, *HTML*, *CSS*, *SQL*, and modern AI tools and frameworks.\n\nI enjoy creating projects that solve real-world problems. Some of my work includes AI-powered applications, smart systems, web applications, automation projects, and an ongoing JARVIS-inspired AI assistant system. I also have experience working with databases, APIs, Git, GitHub, cloud platforms, and development tools.\n\nApart from programming, I am deeply interested in *Artificial Intelligence*, *Machine Learning*, *System Design*, *Automation*, and building intelligent software systems. I like experimenting with new technologies and AI tools because every project gives me an opportunity to learn something new.\n\nI strongly believe that great software should be **simple**, **useful**, **efficient**, and **easy to use**. Every project I build is an opportunity to improve my problem-solving ability, strengthen my technical skills, and create something meaningful.\n\nMy main goal is to become a highly skilled **AI/ML Engineer and Software Developer** capable of building intelligent systems, scalable applications, and useful real-world products while continuously learning and improving."
+    },
+    "manifesto": [
+        "CONTINUOUS LEARNING",
+        "BUILD WITH PURPOSE",
+        "WRITE CLEAN CODE",
+        "SOLVE REAL PROBLEMS",
+        "AI FOR REAL WORLD",
+        "NEVER STOP IMPROVING"
+    ],
+    "projects": [
+        {
+            "id": "1",
+            "title": "JARVIS-OS",
+            "category": "AI Assistant",
+            "year": "2026",
+            "description": "JARVIS-OS is an AI-powered personal assistant project inspired by intelligent virtual assistants. The system is designed to understand user commands, plan tasks, execute actions, and interact with different components through a modular architecture.\n\nThe project focuses on building a practical AI assistant capable of combining natural language understanding with task planning and execution. It is being developed with Python and local AI technologies, with a focus on creating an extensible system that can later support voice interaction, automation, applications, and intelligent workflows.",
+            "image": "/projects/jarvis.png",
+            "repo": "https://github.com/",
+            "stack": [
+                "Python",
+                "Ollama",
+                "Qwen",
+                "AI",
+                "Python-dotenv"
+            ]
+        },
+        {
+            "id": "2",
+            "title": "Exam Hall Anti-Cheating Signal Detector",
+            "category": "IoT & Smart System",
+            "year": "2026",
+            "description": "The Exam Hall Anti-Cheating Signal Detector is a smart hardware-based system designed to detect active wireless signals from mobile phones and other electronic devices inside examination halls.\n\nThe system uses an Arduino UNO with an RF signal detector module to identify suspicious radio-frequency activity. It can provide visual and audio alerts through LEDs and a buzzer and uses an HC-05 Bluetooth module for wireless notifications. The project is designed to provide a practical and low-cost solution for improving examination security and monitoring.",
+            "image": "/projects/anticheat.png",
+            "stack": [
+                "Arduino UNO",
+                "RF Detector",
+                "HC-05",
+                "Bluetooth",
+                "IoT"
+            ]
+        },
+        {
+            "id": "3",
+            "title": "Smart Electricity Billing System",
+            "category": "Software Application",
+            "year": "2026",
+            "description": "Smart Electricity Billing System is a software project designed to manage electricity consumption and billing information in a structured and efficient way. The system focuses on maintaining customer information, calculating electricity usage, generating bills, and organizing billing-related data.\n\nThe project also explores system analysis and design concepts through Data Flow Diagrams and structured system modeling. It demonstrates how software can be designed to simplify electricity billing operations and improve the management of consumer and billing information.",
+            "image": "/projects/electricity.png",
+            "stack": [
+                "Python",
+                "Database",
+                "SQL",
+                "DFD",
+                "Software Engineering"
+            ]
+        },
+        {
+            "id": "4",
+            "title": "Bus Tracker App",
+            "category": "Web Application",
+            "year": "2026",
+            "description": "Bus Tracker App is a transportation-focused application concept designed to make public transportation easier to monitor and use. The application focuses on providing users with useful information about buses, routes, and tracking functionality through an intuitive interface.\n\nThe project combines web development concepts with real-world transportation use cases, with the goal of making daily travel more convenient through better access to transportation information.",
+            "image": "/projects/bustracker.png",
+            "stack": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Web Development"
+            ]
+        },
+        {
+            "id": "5",
+            "title": "NetForecast",
+            "category": "AI & Cybersecurity",
+            "year": "2026",
+            "description": "NetForecast is an AI-focused project concept designed around network attack forecasting and cybersecurity intelligence. The goal is to explore how machine learning and data analysis can be used to identify patterns in network activity and help predict potential security threats.\n\nThe project combines concepts from machine learning, cybersecurity, data analysis, and intelligent systems to explore how predictive technologies can support proactive network security instead of only reacting after an attack occurs.",
+            "image": "/projects/netforecast.png",
+            "stack": [
+                "Python",
+                "Machine Learning",
+                "AI",
+                "Cybersecurity",
+                "Data Science"
+            ]
+        }
+    ],
+    "roadmap": [
+        {
+            "id": "01",
+            "year": "2025",
+            "description": "My programming journey began with learning the fundamentals of computer science and programming. I focused on Python, programming logic, problem-solving, basic algorithms, and web technologies while building my foundation as a Computer Science Engineering student.",
+            "stack": [
+                "Python",
+                "C",
+                "HTML",
+                "CSS"
+            ]
+        },
+        {
+            "id": "02",
+            "year": "2025",
+            "description": "I expanded my programming knowledge by working with data structures, algorithms, databases, SQL, and web development concepts. I also started using Git and GitHub to manage and share my projects while developing a stronger understanding of software development.",
+            "stack": [
+                "Python",
+                "C",
+                "SQL",
+                "HTML",
+                "CSS",
+                "Git",
+                "GitHub"
+            ]
+        },
+        {
+            "id": "03",
+            "year": "2026",
+            "description": "I started building more practical applications and academic projects involving software engineering, databases, IoT, and web technologies. During this stage, I worked on projects such as the Smart Electricity Billing System, Bus Tracker, and Exam Hall Anti-Cheating Signal Detector.",
+            "stack": [
+                "Python",
+                "JavaScript",
+                "SQL",
+                "Arduino",
+                "IoT",
+                "GitHub"
+            ]
+        },
+        {
+            "id": "04",
+            "year": "2026",
+            "description": "I began focusing more deeply on Artificial Intelligence, Machine Learning, automation, and modern application development. I explored AI assistants, local AI models, APIs, modern web technologies, and started developing my JARVIS-inspired AI assistant system.",
+            "stack": [
+                "Python",
+                "AI",
+                "Machine Learning",
+                "Ollama",
+                "JavaScript",
+                "Next.js"
+            ]
+        },
+        {
+            "id": "05",
+            "year": "2026",
+            "description": "I continue to grow as an AI/ML Engineer and Software Developer by building practical projects, exploring intelligent automation, improving my web development skills, and learning about scalable systems. My current focus is on combining AI with software development to create useful real-world applications.",
+            "stack": [
+                "Python",
+                "AI/ML",
+                "Next.js",
+                "TypeScript",
+                "DevOps",
+                "Cloud",
+                "System Design"
+            ]
+        }
+    ]
+}

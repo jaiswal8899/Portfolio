@@ -1,0 +1,122 @@
+{
+    "about": {
+        "intro": "मैं एक *डेटा साइंस और ML का छात्र* हूँ जिसे **आधुनिक** और **इंटरैक्टिव** वेब एप्लिकेशन बनाना भी बहुत पसंद है।",
+        "description": "मुझे **मॉडल को प्रशिक्षित करना** और विचारों को असली टूल्स में बदलना पसंद है। मेरा मुख्य ध्यान *डेटा साइंस* पर है, लेकिन मुझे **वेबसाइट**, **AI ऐप्स** और **वेब इंटरफेस** बनाना भी बहुत अच्छा लगता है।",
+        "full": "नमस्ते, मैं **अभिषेक कुमार** हूँ, भारत से एक डेटा साइंस और मशीन लर्निंग का छात्र। पिछले कुछ वर्षों में, मैं डेटा, एल्गोरिदम और AI के बारे में बहुत कुछ सीख रहा हूँ, साथ ही नए प्रोजेक्ट्स बना रहा हूँ और नई वेब तकनीकों को एक्सप्लोर कर रहा हूँ।\n\nमेरा मुख्य ध्यान डेटा साइंस और मशीन लर्निंग पर रहता है, लेकिन मुझे वेब डेवलपमेंट भी बहुत पसंद है। मुझे *React*, *Next.js*, *Python*, *Node.js* और *Tailwind CSS* जैसे टूल्स इस्तेमाल करना अच्छा लगता है। मैं डेटाबेस बनाने, मॉडल को ट्रेन करने और क्लाउड-आधारित ऐप्स बनाने का आनंद लेता हूँ।\n\nडेटा साइंस के अलावा, मेरी *आर्टिफिशियल इंटेलिजेंस*, *सिस्टम डिजाइन* और पूरी वेबसाइट बनाने में गहरी रुचि है। मुझे नए फ्रेमवर्क्स और टूल्स को आज़माना बहुत पसंद है क्योंकि हर नया प्रोजेक्ट मुझे कुछ बहुत ही उपयोगी सिखाता है।\n\nमेरा दृढ़ विश्वास है कि एक बेहतरीन सॉफ्टवेयर **सरल**, **साफ**, **तेज़** और **इस्तेमाल करने में आसान** होना चाहिए। मेरा बनाया हर प्रोजेक्ट असली समस्याओं को सुलझाने और मेरे तकनीकी कौशल को निखारने का एक मौका होता है।\n\nमेरा मुख्य लक्ष्य एक बेहद कुशल मशीन लर्निंग इंजीनियर और डेवलपर बनना है जो स्मार्ट सिस्टम बना सके, उपयोगी उत्पाद तैयार कर सके और हमेशा नई चीजें सीख सके।"
+    },
+    "manifesto": [
+        "लगातार सीखना",
+        "उद्देश्य के साथ निर्माण",
+        "साफ़ कोड लिखें",
+        "वास्तविक समस्याएँ हल करें",
+        "प्रदर्शन सर्वोपरि",
+        "सीखना कभी न रोकें"
+    ],
+    "projects": [
+        {
+            "id": "1",
+            "title": "Energy Calculator Chatbot",
+            "category": "एआई सहायक",
+            "year": "2026",
+            "description": "AI Energy Calculator est une application web intelligente qui aide les utilisateurs à estimer la consommation énergétique de leur foyer en renseignant simplement les caractéristiques de leurs appareils électriques. Elle calcule la consommation rapidement, avec précision, grâce à une interface conversationnelle intuitive.\n\nPropulsée par des technologies web modernes et un chatbot basé sur l'IA, elle analyse la puissance, la durée d'utilisation quotidienne et la quantité des appareils afin d'estimer la consommation d'électricité dans différents pays. L'application fournit des informations claires pour mieux comprendre et optimiser la consommation d'énergie.",
+            "image": "/projects/energychatbot.png",
+            "demo": "https://chat-bot-psi-nine.vercel.app/",
+            "repo": "https://github.com/Shivam8211/Energy-Calculator-ChatBot.git",
+            "stack": [
+                "OpenRouter",
+                "TypeScript",
+                "Next.js",
+                "TailwindCSS"
+            ]
+        },
+        {
+            "id": "2",
+            "title": "WordGame",
+            "category": "गेम",
+            "year": "2025",
+            "description": "WordGame est un jeu multijoueur en temps réel où les joueurs placent stratégiquement des lettres sur une grille commune afin de former des mots anglais valides. Chaque mot correctement formé rapporte des points et encourage la créativité ainsi qu'une réflexion stratégique.\n\nDéveloppé avec des technologies web modernes et une communication en temps réel, le jeu offre une expérience fluide avec des scores en direct, des tours chronométrés et un gameplay interactif. Il combine stratégie, vocabulaire et rapidité de décision pour offrir une expérience amusante et compétitive.",
+            "image": "/projects/wordgame.png",
+            "demo": "https://wordgame-rho-ten.vercel.app/",
+            "repo": "https://github.com/Shivam8211/WordGame.git",
+            "stack": [
+                "React",
+                "Node.js",
+                "Tailwind CSS",
+                "Socket.io",
+                "Vite"
+            ]
+        },
+        {
+            "id": "3",
+            "title": "HandwritingAI",
+            "category": "वेब एप्लिकेशन",
+            "year": "2025",
+            "description": "HandwritingAI est une application web alimentée par l'IA qui transforme du texte saisi en notes manuscrites réalistes en quelques secondes. Conçue pour les étudiants, les enseignants et les professionnels, elle génère une écriture naturelle avec des styles, des papiers et des options de mise en page personnalisables.\n\nGrâce à des technologies d'IA modernes et une interface intuitive, elle propose plus de 13 styles d'écriture, plusieurs types de papier, un niveau de désordre ajustable, l'annotation de schémas ainsi qu'une exportation PDF et PNG de haute qualité.",
+            "image": "/projects/hand.png",
+            "repo": "https://github.com/Shivam8211/HandwrittenAI.git",
+            "stack": [
+                "React",
+                "TailwindCSS",
+                "Vite"
+            ]
+        }
+    ],
+    "roadmap": [
+        {
+            "id": "01",
+            "year": "2024",
+            "description": "मेरी प्रोग्रामिंग यात्रा की शुरुआत प्रोग्रामिंग की मूल बातें, समस्या समाधान और बुनियादी वेब तकनीकों को सीखने से हुई।",
+            "stack": [
+                "Python",
+                "HTML",
+                "CSS"
+            ]
+        },
+        {
+            "id": "02",
+            "year": "2024",
+            "description": "मैंने HTML, CSS और JavaScript का उपयोग करके रिस्पॉन्सिव वेबसाइटें बनानी शुरू कीं और Git तथा GitHub सीखा।",
+            "stack": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Git"
+            ]
+        },
+        {
+            "id": "03",
+            "year": "2025",
+            "description": "मैंने React और फिर Node.js, Express.js, MongoDB तथा REST APIs के साथ फुल स्टैक डेवलपमेंट शुरू किया।",
+            "stack": [
+                "React",
+                "Node.js",
+                "Express.js",
+                "MongoDB"
+            ]
+        },
+        {
+            "id": "04",
+            "year": "2025",
+            "description": "मैंने Next.js, TypeScript, Tailwind CSS, Prisma और PostgreSQL पर काम करते हुए कई फुल स्टैक प्रोजेक्ट बनाए।",
+            "stack": [
+                "Next.js",
+                "TypeScript",
+                "Tailwind CSS",
+                "PostgreSQL"
+            ]
+        },
+        {
+            "id": "05",
+            "year": "2026",
+            "description": "मैं प्रोडक्शन-रेडी एप्लिकेशन बनाते हुए AI, क्लाउड और सिस्टम डिज़ाइन में लगातार सीख रहा हूँ।",
+            "stack": [
+                "Next.js",
+                "TypeScript",
+                "Devops",
+                "AI",
+                "Cloud",
+                "System Design"
+            ]
+        }
+    ]
+}

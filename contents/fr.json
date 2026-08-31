@@ -1,0 +1,122 @@
+{
+    "about": {
+        "intro": "Je suis un *étudiant en Data Science et ML* qui adore aussi créer des applications web **modernes** et **interactives**.",
+        "description": "Je suis quelqu'un qui aime **entraîner des modèles** et transformer des idées en outils réels. Je me concentre principalement sur la *science des données*, mais j'adore aussi créer des **sites web**, des **applications IA** et des **interfaces web**.",
+        "full": "Bonjour, je suis **Shivam Kumar**, étudiant en Data Science et Machine Learning originaire d'Inde. Ces dernières années, j'ai activement appris sur les données, les algorithmes et l'IA, tout en réalisant des projets et en explorant de nouvelles technologies web.\n\nJe me concentre principalement sur la science des données et le machine learning, mais j'apprécie aussi beaucoup le développement web. J'adore utiliser des outils comme *React*, *Next.js*, *Python*, *Node.js* et *Tailwind CSS*. J'aime créer des bases de données, entraîner des modèles et concevoir des applications cloud.\n\nEn dehors de la science des données, je m'intéresse beaucoup à l'*Intelligence Artificielle*, au *Design de Systèmes* et à la création de sites web complets. J'aime tester de nouveaux frameworks et outils car chaque nouveau projet m'apprend quelque chose de très utile.\n\nJe crois fermement qu'un bon logiciel doit être **simple**, **propre**, **rapide** et **facile à utiliser**. Chaque projet que je réalise est une occasion de résoudre de vrais problèmes tout en améliorant mes compétences techniques et en programmation.\n\nMon objectif principal est de devenir un Ingénieur en Machine Learning et Développeur hautement qualifié, capable de concevoir des systèmes intelligents, de créer des produits utiles et de toujours apprendre de nouvelles choses."
+    },
+    "manifesto": [
+        "APPRENTISSAGE CONTINU",
+        "CRÉER AVEC UN OBJECTIF",
+        "ÉCRIRE UN CODE PROPRE",
+        "RÉSOUDRE DE VRAIS PROBLÈMES",
+        "LA PERFORMANCE AVANT TOUT",
+        "NE JAMAIS CESSER DE PROGRESSER"
+    ],
+    "projects": [
+        {
+            "id": "1",
+            "title": "Energy Calculator Chatbot",
+            "category": "एआई सहायक",
+            "year": "2026",
+            "description": "AI Energy Calculator est une application web intelligente qui aide les utilisateurs à estimer la consommation énergétique de leur foyer en renseignant simplement les caractéristiques de leurs appareils électriques. Elle calcule la consommation rapidement, avec précision, grâce à une interface conversationnelle intuitive.\n\nPropulsée par des technologies web modernes et un chatbot basé sur l'IA, elle analyse la puissance, la durée d'utilisation quotidienne et la quantité des appareils afin d'estimer la consommation d'électricité dans différents pays. L'application fournit des informations claires pour mieux comprendre et optimiser la consommation d'énergie.",
+            "image": "/projects/energychatbot.png",
+            "demo": "https://chat-bot-psi-nine.vercel.app/",
+            "repo": "https://github.com/Shivam8211/Energy-Calculator-ChatBot.git",
+            "stack": [
+                "OpenRouter",
+                "TypeScript",
+                "Next.js",
+                "TailwindCSS"
+            ]
+        },
+        {
+            "id": "2",
+            "title": "WordGame",
+            "category": "गेम",
+            "year": "2025",
+            "description": "WordGame est un jeu multijoueur en temps réel où les joueurs placent stratégiquement des lettres sur une grille commune afin de former des mots anglais valides. Chaque mot correctement formé rapporte des points et encourage la créativité ainsi qu'une réflexion stratégique.\n\nDéveloppé avec des technologies web modernes et une communication en temps réel, le jeu offre une expérience fluide avec des scores en direct, des tours chronométrés et un gameplay interactif. Il combine stratégie, vocabulaire et rapidité de décision pour offrir une expérience amusante et compétitive.",
+            "image": "/projects/wordgame.png",
+            "demo": "https://wordgame-rho-ten.vercel.app/",
+            "repo": "https://github.com/Shivam8211/WordGame.git",
+            "stack": [
+                "React",
+                "Node.js",
+                "Tailwind CSS",
+                "Socket.io",
+                "Vite"
+            ]
+        },
+        {
+            "id": "3",
+            "title": "HandwritingAI",
+            "category": "वेब एप्लिकेशन",
+            "year": "2025",
+            "description": "HandwritingAI est une application web alimentée par l'IA qui transforme du texte saisi en notes manuscrites réalistes en quelques secondes. Conçue pour les étudiants, les enseignants et les professionnels, elle génère une écriture naturelle avec des styles, des papiers et des options de mise en page personnalisables.\n\nGrâce à des technologies d'IA modernes et une interface intuitive, elle propose plus de 13 styles d'écriture, plusieurs types de papier, un niveau de désordre ajustable, l'annotation de schémas ainsi qu'une exportation PDF et PNG de haute qualité.",
+            "image": "/projects/hand.png",
+            "repo": "https://github.com/Shivam8211/HandwrittenAI.git",
+            "stack": [
+                "React",
+                "TailwindCSS",
+                "Vite"
+            ]
+        }
+    ],
+    "roadmap": [
+        {
+            "id": "01",
+            "year": "2024",
+            "description": "Mon parcours a commencé par l'apprentissage des bases de la programmation, de la résolution de problèmes et des technologies web fondamentales.",
+            "stack": [
+                "Python",
+                "HTML",
+                "CSS"
+            ]
+        },
+        {
+            "id": "02",
+            "year": "2024",
+            "description": "J'ai commencé à créer des sites web responsives avec HTML, CSS et JavaScript tout en découvrant Git et GitHub.",
+            "stack": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Git"
+            ]
+        },
+        {
+            "id": "03",
+            "year": "2025",
+            "description": "Je me suis orienté vers React puis vers le développement backend avec Node.js, Express.js, MongoDB et les API REST afin de créer des applications Full Stack.",
+            "stack": [
+                "React",
+                "Node.js",
+                "Express.js",
+                "MongoDB"
+            ]
+        },
+        {
+            "id": "04",
+            "year": "2025",
+            "description": "J'ai approfondi Next.js, TypeScript, Tailwind CSS, Prisma et PostgreSQL en développant plusieurs projets Full Stack.",
+            "stack": [
+                "Next.js",
+                "TypeScript",
+                "Tailwind CSS",
+                "PostgreSQL"
+            ]
+        },
+        {
+            "id": "05",
+            "year": "2026",
+            "description": "Je continue à progresser en développant des applications prêtes pour la production tout en explorant l'IA, le cloud et l'architecture des systèmes.",
+            "stack": [
+                "Next.js",
+                "TypeScript",
+                "Devops",
+                "AI",
+                "Cloud",
+                "System Design"
+            ]
+        }
+    ]
+}
