@@ -32,7 +32,7 @@ export default function Stack() {
         {
             title: dict.toolsStack,
             items: content.stack?.tools || [],
-        },
+        }
     ];
 
     return (

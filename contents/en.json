@@ -45,21 +45,6 @@
             ]
         },
         {
-            "id": "3",
-            "title": "Smart Electricity Billing System",
-            "category": "Software Application",
-            "year": "2026",
-            "description": "Smart Electricity Billing System is a software project designed to manage electricity consumption and billing information in a structured and efficient way. The system focuses on maintaining customer information, calculating electricity usage, generating bills, and organizing billing-related data.\n\nThe project also explores system analysis and design concepts through Data Flow Diagrams and structured system modeling. It demonstrates how software can be designed to simplify electricity billing operations and improve the management of consumer and billing information.",
-            "image": "/projects/electricity.png",
-            "stack": [
-                "Python",
-                "Database",
-                "SQL",
-                "DFD",
-                "Software Engineering"
-            ]
-        },
-        {
             "id": "4",
             "title": "Bus Tracker App",
             "category": "Web Application",
@@ -71,21 +56,6 @@
                 "CSS",
                 "JavaScript",
                 "Web Development"
-            ]
-        },
-        {
-            "id": "5",
-            "title": "NetForecast",
-            "category": "AI & Cybersecurity",
-            "year": "2026",
-            "description": "NetForecast is an AI-focused project concept designed around network attack forecasting and cybersecurity intelligence. The goal is to explore how machine learning and data analysis can be used to identify patterns in network activity and help predict potential security threats.\n\nThe project combines concepts from machine learning, cybersecurity, data analysis, and intelligent systems to explore how predictive technologies can support proactive network security instead of only reacting after an attack occurs.",
-            "image": "/projects/netforecast.png",
-            "stack": [
-                "Python",
-                "Machine Learning",
-                "AI",
-                "Cybersecurity",
-                "Data Science"
             ]
         }
     ],
